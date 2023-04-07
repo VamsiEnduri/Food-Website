@@ -1,0 +1,25 @@
+.meal-items{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.card{
+    
+    width: 210px;
+    height: 234px;
+    /* border: 1px solid black; */
+    box-sizing: border-box;
+    padding: 6px;
+    background-color:rgba(0,0,0,1);
+    color: #fff;
+    border-radius: 7px;
+margin-left: 13px;
+
+}
+.card img{
+    width: 100%;
+    border-radius: 10px;
+}
+.card p{
+    text-align: center;
+}
